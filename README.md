@@ -1,4 +1,4 @@
-# 🏛️ ne legislation file tree
+# 🏛️ Nebraska legislation file tree
 
 Download a copy of your states legislation.
 
