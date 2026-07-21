@@ -624,6 +624,7 @@
     "division_id": "ocd-division/country:us/state:ne"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T17:42:37Z"
+    "logs_latest_update": "2026-07-21T17:42:37Z",
+    "text_extraction_latest_update": "2026-07-21T19:45:41.520448Z"
   }
 }
