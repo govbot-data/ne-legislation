@@ -1,0 +1,15 @@
+Title: 
+Official Title: 
+Source: versions - Holdcroft AM120
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+AM120 AM120
+LB357 LB357
+LPB - 01/31/2025 LPB - 01/31/2025
+AMENDMENTS TO LB357
+Introduced by Holdcroft, 36.
+1 1. On page 24, line 31, strike "2-1208" and insert "2-1208.01".
+-1-
