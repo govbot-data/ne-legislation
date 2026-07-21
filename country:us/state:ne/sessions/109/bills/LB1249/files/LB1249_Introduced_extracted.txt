@@ -1,0 +1,239 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB1249 LB1249
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 1249
+Introduced by Sorrentino, 39; Hallstrom, 1; Strommen, 47.
+Read first time January 21, 2026
+Committee: Business and Labor
+1 A BILL FOR AN ACT relating to the Nebraska Healthy Families and
+2 Workplaces Act; to amend sections 48-3802, 48-3803, and 48-3806,
+3 Revised Statutes Supplement, 2025; to redefine terms; to change
+4 provisions relating to the carryover of paid sick time; to eliminate
+5 obsolete provisions; and to repeal the original sections.
+6 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB1249 LB1249
+2026 2026
+1 Section 1. Section 48-3802, Revised Statutes Supplement, 2025, is
+2 amended to read:
+3 48-3802 For purposes of the Nebraska Healthy Families and Workplaces
+4 Act:
+5 (1) Department means the Department of Labor;
+6 (2) Employ means to permit to work by an employer pursuant to an
+7 employment relationship;
+8 (3) Employee means any individual employed by an employer, but does
+9 not include:
+10 (a) An individual owner-operator;
+11 (b) An independent contractor;
+12 (c) An individual who works in Nebraska for fewer than eighty hours
+13 in a calendar year;
+14 (d) An individual who is employed in agricultural employment of a
+15 seasonal or other temporary nature;
+16 (e) An "employee" as defined by 45 U.S.C. 351(d) who is subject to
+17 the federal Railroad Unemployment Insurance Act, 45 U.S.C. 351 et seq.;
+18 or
+19 (f) An individual under sixteen years of age; or
+20 (g) An individual with any amount of an ownership interest in an
+21 employer;
+22 (4)(a) Employer means any individual, partnership, limited liability
+23 company, association, corporation, business trust, legal representative,
+24 or organized group of persons who employs eleven or more employees.
+25 (b) Employer does not include the United States, or the State of
+26 Nebraska or its agencies, departments, or political subdivisions, any
+27 corporation which operates a private, parochial, or denominational
+28 elementary or secondary school which fulfills the applicable
+29 accreditation or approval requirements established by the State Board of
+30 Education pursuant to section 79-318, or any private postsecondary
+31 institution;
+-2-
+
+LB1249 LB1249
+2026 2026
+1 (5) Family member means:
+2 (a) Any of the following, regardless of age: A biological, adopted,
+3 or foster child, a stepchild, a legal ward, or a child to whom the
+4 employee stands in loco parentis;
+5 (b) A biological, foster, step, or adoptive parent or a legal
+6 guardian of an employee or an employee's spouse;
+7 (c) A person who stood in loco parentis to the employee or the
+8 employee's spouse when the employee or employee's spouse was a minor
+9 child;
+10 (d) A person to whom the employee is legally married under the laws
+11 of any state;
+12 (e) A grandparent, grandchild, or sibling, whether of a biological,
+13 foster, adoptive, or step relationship, of the employee or the employee's
+14 spouse; or
+15 (f) Any other individual related by blood to the employee or whose
+16 close association with the employee is the equivalent of a family
+17 relationship;
+18 (6) Health care professional means any person licensed under any
+19 federal or state law to provide medical or emergency services;
+20 (7) Paid sick time means time that is compensated at the same hourly
+21 rate and with the same benefits, including health care benefits, as the
+22 employee typically earns during hours worked and that is provided by an
+23 employer to an employee for the purposes described in section 48-3804,
+24 and in no case shall the amount of this hourly rate be less than that
+25 provided under section 48-1203. Notwithstanding the foregoing, for
+26 employees paid on a commission, piece-rate, mileage, or fee-for-service
+27 basis, paid sick time means time that is compensated at an hourly rate
+28 determined by the employer using the average weekly rate calculation
+29 under section 48-126, which shall then be reduced to an hourly rate based
+30 on a forty-hour workweek, and that is provided by an employer to an
+31 employee for the purposes described in section 48-3804. Paid sick time
+-3-
+
+LB1249 LB1249
+2026 2026
+1 includes time made available to employees for purposes including, but not
+2 limited to, the purposes described in section 48-3804 under a paid leave
+3 policy described in subsection (7) of section 48-3803;
+4 (8) Public health emergency means a declaration or proclamation
+5 related to a public health threat, risk, disaster, or emergency that is
+6 made or issued by a federal, state, or local official with the authority
+7 to make or issue such a declaration or proclamation;
+8 (9) Retaliatory personnel action means a denial of any right
+9 guaranteed under the Nebraska Healthy Families and Workplaces Act and any
+10 threat, discharge, suspension, demotion, reduction of hours or pay, or
+11 other adverse action against an employee for exercising or attempting to
+12 exercise any right guaranteed in the Nebraska Healthy Families and
+13 Workplaces Act;
+14 (10)(a) Small business means an employer with at least eleven but
+15 fewer than twenty employees during a given week, including full-time,
+16 part-time, or temporary employees.
+17 (b) Small business does not include an employer that maintained
+18 twenty or more employees on its payroll in each of twenty or more
+19 calendar weeks in the current or preceding calendar year; and
+20 (11) Year means a regular and consecutive twelve-month period as
+21 determined by the employer.
+22 Sec. 2. Section 48-3803, Revised Statutes Supplement, 2025, is
+23 amended to read:
+24 48-3803 (1) All employees shall begin accruing paid sick time after
+25 eighty hours of consecutive employment, at which point employees shall
+26 then accrue a minimum of one hour of paid sick time for every thirty
+27 hours worked. Unless the employer selects a higher limit, this section
+28 does not entitle an employee to earn or use more than:
+29 (a) Forty hours of paid sick time in a year for an employee of a
+30 small business; or
+31 (b) Fifty-six hours of paid sick time in a year for an employee of
+-4-
+
+LB1249 LB1249
+2026 2026
+1 an employer that is not a small business.
+2 (2) Employees who are exempt from overtime requirements under 29
+3 U.S.C. 213(a)(1) or 29 U.S.C. 213(b)(1) of the federal Fair Labor
+4 Standards Act, 29 U.S.C. 201 et seq., shall be assumed to work forty
+5 hours in each workweek for purposes of paid sick time accrual unless
+6 their typical workweek is less than forty hours, in which case paid sick
+7 time accrues based upon that typical workweek.
+8 (3) Paid sick time requirements provided under the Nebraska Healthy
+9 Families and Workplaces Act shall begin October 1, 2025. An employee
+10 shall be entitled to use paid sick time as it is accrued. An employer may
+11 provide all paid sick time that an employee is expected to accrue in a
+12 year at the beginning of the year.
+13 (4) Paid sick time provided to an employee on or after January 1,
+14 2025, and before October 1, 2025, shall be counted toward an employer's
+15 obligations under the Nebraska Healthy Families and Workplaces Act for
+16 calendar year 2025.
+17 (5) Accrued paid sick time shall be carried over to the following
+18 year, except that a . A small business is not required to permit an
+19 employee to carryover or use more than forty hours of paid sick time per
+20 year, and other employers are not required to permit an employee to
+21 carryover or use more than fifty-six hours of paid sick time per year.
+22 (6) In lieu of carryover of unused paid sick time provided pursuant
+23 to this section from one year to the next, an employer may pay an
+24 employee for unused paid sick time provided pursuant to this section at
+25 the end of a year and provide the employee with an amount of paid sick
+26 time that meets or exceeds the requirements of subsections (1) and (3) of
+27 this section that is available for the employee's immediate use at the
+28 beginning of the subsequent year.
+29 (7) Any employer with a paid leave policy, such as a paid time off
+30 policy, who makes available an amount of paid leave that equals or
+31 exceeds the requirements of the Nebraska Healthy Families and Workplaces
+-5-
+
+LB1249 LB1249
+2026 2026
+1 Act and that may be used as paid sick time in accordance with section
+2 48-3804 is not required to provide additional paid sick time under the
+3 act and is not obligated to allow an employee to accrue or carryover
+4 benefits beyond the employer's existing paid leave policy.
+5 (8) At its discretion, an employer may loan paid sick time to an
+6 employee in advance of accrual by such employee.
+7 (9) If an employee is transferred to a separate division, entity, or
+8 location, but remains employed by the same employer, the employee is
+9 entitled to all paid sick time accrued at the prior division, entity, or
+10 location and is entitled to use all paid sick time as provided in the
+11 Nebraska Healthy Families and Workplaces Act. When there is a separation
+12 from employment and the employee is rehired within twelve months of
+13 separation by the same employer, previously accrued paid sick time that
+14 had not been used or paid out to the employee shall be reinstated. The
+15 employee shall be entitled to use accrued paid sick time and accrue
+16 additional paid sick time at the recommencement of employment.
+17 (10) Nothing in this section shall be construed to require employers
+18 to pay an employee for unused paid sick time upon the employee's
+19 separation from employment.
+20 Sec. 3. Section 48-3806, Revised Statutes Supplement, 2025, is
+21 amended to read:
+22 48-3806 (1) Employers shall give employees written notice of the
+23 following at the commencement of employment or by September 15, 2025,
+24 whichever is later: That beginning October 1, 2025, employees are
+25 entitled to paid sick time; the amount of paid sick time; the terms of
+26 its use guaranteed under the Nebraska Healthy Families and Workplaces
+27 Act; that retaliatory personnel action against employees who request or
+28 use paid sick time is prohibited; that each employee has the right to
+29 file a suit or complaint if paid sick time as required by the act is
+30 denied by the employer or the employee is subjected to retaliatory
+31 personnel action for requesting or taking paid sick time; and the contact
+-6-
+
+LB1249 LB1249
+2026 2026
+1 information for the department where questions about rights and
+2 responsibilities under the act can be answered.
+3 (2) The notices required in subsection (1) of this section shall be
+4 provided in:
+5 (a) English; and
+6 (b) Any language that is the first language spoken by at least five
+7 percent of the employer's workforce if the department has provided a
+8 model notice in such language.
+9 (3) The amount of paid sick time available to the employee, the
+10 amount of paid sick time taken by the employee to date in the year, and
+11 the amount of pay the employee has received as paid sick time shall be
+12 recorded in, or on an attachment to, the employee's regular paycheck.
+13 (4) Employers shall display a poster that contains the information
+14 required in subsection (1) of this section in a conspicuous and
+15 accessible place in each establishment where such employees are employed.
+16 If an employer does not maintain a physical workplace or an employee
+17 teleworks or performs work through a web-based or app-based platform, the
+18 employer shall provide notice of such information via electronic
+19 communication or a conspicuous posting in the web-based or app-based
+20 platform. The poster displayed shall be in:
+21 (a) English; and
+22 (b) Any language that is the first language spoken by at least five
+23 percent of the employer's workforce if the department has provided
+24 posters in such language.
+25 (5) The department shall create and make available to employers, in
+26 all languages spoken by at least five percent of Nebraska's workforce and
+27 any language deemed appropriate by the department, model notices and
+28 posters that contain the information required under subsection (1) of
+29 this section and for employers' use in complying with subsections (1) and
+30 (4) of this section.
+31 Sec. 4. Original sections 48-3802, 48-3803, and 48-3806, Revised
+-7-
+
+LB1249 LB1249
+2026 2026
+1 Statutes Supplement, 2025, are repealed.
+-8-

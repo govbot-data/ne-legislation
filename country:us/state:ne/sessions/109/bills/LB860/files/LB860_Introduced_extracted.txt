@@ -1,0 +1,75 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LB860 LB860
+2026 2026
+LEGISLATURE OF NEBRASKA
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE BILL 860
+Introduced by Bostar, 29.
+Read first time January 08, 2026
+Committee: Health and Human Services
+1 A BILL FOR AN ACT relating to behavioral health services; to amend
+2 section 71-801, Revised Statutes Cumulative Supplement, 2024; to
+3 require the Department of Health and Human Services to create a
+4 program to provide behavioral health services to individuals under
+5 twenty-one years of age as prescribed; and to repeal the original
+6 section.
+7 Be it enacted by the people of the State of Nebraska,
+-1-
+
+LB860 LB860
+2026 2026
+1 Section 1. Section 71-801, Revised Statutes Cumulative Supplement,
+2 2024, is amended to read:
+3 71-801 Sections 71-801 to 71-830, sections 2 to 3 of this act, and
+4 the Certified Community Behavioral Health Clinic Act shall be known and
+5 may be cited as the Nebraska Behavioral Health Services Act.
+6 Sec. 2. (1) No later than January 1, 2027, the Department of Health
+7 and Human Services shall establish a program that provides access and
+8 services for individuals under twenty-one years of age who are
+9 experiencing complex behavioral health care needs.
+10 (2) The department shall ensure that: (a) The program addresses the
+11 behavioral health care of individuals under twenty-one years of age who
+12 have complex, multisystem needs, with the goals of supporting families in
+13 the community and preventing institutionalization and out-of-home care
+14 placement; and (b) care management under the program is delivered
+15 according to the needs of the individual and the individual's family.
+16 Sec. 3. (1) The department shall provide the following services
+17 within the program described in section 2 of this act, including, but not
+18 limited to:
+19 (a) Mobile response and stabilization;
+20 (b) Intensive home-based treatment;
+21 (c) Inpatient and outpatient care;
+22 (d) Psychiatric residential treatment facility care;
+23 (e) Substance use disorder treatment;
+24 (f) Psychiatric care; and
+25 (g) Developmental disability care.
+26 (2) Care coordination shall be provided through the behavioral
+27 health regions, as determined by the department. The department may
+28 procure a single, statewide managed care plan that builds a sufficient
+29 provider network to ensure access to behavioral health services,
+30 including residential treatment and home and community-based services, in
+31 order to provide a full continuum of behavioral health care. The
+-2-
+
+LB860 LB860
+2026 2026
+1 department or a managed care organization may manage administrative care
+2 coordination, utilization management, and quality improvement efforts
+3 under this section.
+4 (3) The department may adopt and promulgate rules and regulations to
+5 implement sections 2 to 3 of this act and if necessary, shall submit to
+6 the federal Centers for Medicare and Medicaid Services, a state plan
+7 amendment, a waiver request, or an application for other federal approval
+8 necessary to provide reimbursement through the medical assistance program
+9 for the behavioral health care services described in this section.
+10 Sec. 4. Original section 71-801, Revised Statutes Cumulative
+11 Supplement, 2024, is repealed.
+-3-
