@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+LR371 LR371
+2026 2026
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE RESOLUTION 371
+Introduced by Cavanaugh, J., 9.
+PURPOSE: The purpose of this resolution is to propose an interim study to
+determine whether Nebraska should amend the rules of evidence to mirror federal
+changes to the admissibility of expert testimony.
+Nebraska, like most states, has modeled its rules of evidence after the
+Federal Rules of Evidence. Federal Rule of Evidence 702 governs the
+admissibility of expert testimony, requiring that a witness who is qualified as
+an expert by knowledge, skill, experience, training, or education may testify
+if their scientific or technical knowledge helps the trier of fact.
+On December 1, 2023, an amendment to Federal Rule of Evidence 702 went
+into effect for the federal courts. The amendment clarifies that when it comes
+to the admissibility of expert testimony, that the proponent must prove, by a
+preponderance of evidence, that the testimony is based on sufficient facts and
+reliable methods and that the opinion of the expert reflects a reliable
+application of the principles and methods to the facts of the case.
+NOW, THEREFORE, BE IT RESOLVED BY THE MEMBERS OF THE ONE HUNDRED NINTH
+LEGISLATURE OF NEBRASKA, SECOND SESSION:
+1. That the Judiciary Committee of the Legislature shall be designated to
+conduct an interim study to carry out the purposes of this resolution.
+2. That the committee shall upon the conclusion of its study make a report
+of its findings, together with its recommendations, to the Legislative Council
+or Legislature.
+-1-

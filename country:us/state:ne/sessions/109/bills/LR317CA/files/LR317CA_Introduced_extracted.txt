@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+LR317CA LR317CA
+2026 2026
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE RESOLUTION 317CA
+PROPOSED CONSTITUTIONAL AMENDMENT
+Introduced by Brandt, 32.
+Read first time January 21, 2026
+Committee: Revenue
+1 THE MEMBERS OF THE ONE HUNDRED NINTH LEGISLATURE OF NEBRASKA, SECOND
+2 SESSION, RESOLVE THAT:
+3 Section 1. At the general election in November 2026, the following
+4 proposed amendment to the Constitution of Nebraska shall be submitted to
+5 the electors of the State of Nebraska for approval or rejection:
+6 To add a new section 14 to Article VIII:
+7 VIII-14 (1) Beginning January 1, 2027, the total amount of property
+8 taxes that may be levied by a political subdivision in any year shall not
+9 exceed the total amount levied in the prior year by more than the
+10 allowable growth percentage.
+11 (2) For purposes of this section:
+12 (a) Allowable growth percentage means a percentage equal to the sum
+13 of (i) two percent plus (ii) the political subdivision's real growth
+14 percentage;
+15 (b) Real growth percentage means the percentage obtained by dividing
+16 (i) the political subdivision's real growth value by (ii) the political
+17 subdivision's total property valuation from the prior year; and
+18 (c) Real growth value means the increase in a political
+19 subdivision's total property valuation from the prior year to the current
+20 year due to (i) improvements to real property as a result of new
+21 construction and additions to existing buildings, (ii) any other
+22 improvements to real property which increase the value of such property,
+23 (iii) annexation of real property by the political subdivision, (iv) a
+-1-
+
+LR317CA LR317CA
+2026 2026
+1 change in the use of real property, and (v) any increase in personal
+2 property valuation over the prior year.
+3 Sec. 2. The proposed amendment shall be submitted to the electors
+4 in the manner prescribed by the Constitution of Nebraska, Article XVI,
+5 section 1, with the following ballot language:
+6 A constitutional amendment to limit the annual growth in the amount
+7 of property taxes levied by political subdivisions.
+8 For
+9 Against.
+-2-

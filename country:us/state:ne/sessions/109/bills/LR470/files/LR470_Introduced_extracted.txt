@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+LR470 LR470
+2026 2026
+ONE HUNDRED NINTH LEGISLATURE
+SECOND SESSION
+LEGISLATIVE RESOLUTION 470
+Introduced by Ballard, 21.
+PURPOSE: The purpose of this resolution is to propose an interim study to
+streamline and improve wireless connectivity for residents, families and
+businesses, specifically by examining policies to address unreasonable fees and
+other costs for wireless deployments.
+In recent years, wireless providers and infrastructure companies have
+experienced an exponential growth in fees for processing siting applications
+that include or require engagement with third-party contractors or consultants.
+Permitting fees for wireless sites are often substantially higher in
+municipalities and jurisdictions that utilize these consultants compared with
+those that do not. In some cases across the country, jurisdictions even require
+upfront retainer payments before an application can be considered.
+This growth in fees and costs is happening as the public's demand for
+wireless services is growing at historic proportions in Nebraska and across the
+nation. In 2024 alone, United States consumers used a record 132 trillion
+megabytes of mobile data, shattering the 100 trillion-megabyte mark set the
+year before. The amount of wireless infrastructure necessary to carry that
+traffic and meet this growing demand is staggering and will only continue to
+grow, which is why wireless providers invested $29 billion in 2024 and
+approximately $219 billion since 2018 to expand the nation's wireless networks.
+In 2021, LB520 was introduced to address this and other permitting issues.
+The bill preserved and protected the ability of Nebraska jurisdictions to
+charge fees for wireless permitting provided the assessed fees are reasonable
+and reflective of actual costs of wireless permitting. This included specific
+limits and guardrails on consultant-based fee assessments. Even if this and
+other related provisions had been enacted into law, LB520 would have maintained
+-1-
+
+LR470 LR470
+2026 2026
+already substantial, appropriate local control over the wireless permit
+application process.
+This study shall examine policies adopted by other states as well as
+federal laws and regulations governing fees and costs assessed by
+municipalities and other jurisdictions for wireless permitting to facilitate
+the development of future Nebraska legislation to address the issue.
+NOW, THEREFORE, BE IT RESOLVED BY THE MEMBERS OF THE ONE HUNDRED NINTH
+LEGISLATURE OF NEBRASKA, SECOND SESSION:
+1. That the Transportation and Telecommunications Committee of the
+Legislature shall be designated to conduct an interim study to carry out the
+purposes of this resolution.
+2. That the committee shall upon the conclusion of its study make a report
+of its findings, together with its recommendations, to the Legislative Council
+or Legislature.
+-2-
