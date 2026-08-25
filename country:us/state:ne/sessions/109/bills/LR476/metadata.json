@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Notice of hearing for November 19, 2026",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T08:53:04Z"
+      }
+    },
+    {
       "description": "Referred to Nebraska Retirement Systems Committee",
       "date": "2026-03-30",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -89,6 +99,7 @@
     }
   ],
   "extras": {
+    "NE_REF_DATE": "November 19, 2026",
     "NE_REF_COM": "Executive Board"
   },
   "jurisdiction": {
@@ -98,7 +109,7 @@
     "division_id": "ocd-division/country:us/state:ne"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T07:34:49Z",
+    "logs_latest_update": "2026-08-25T08:53:04Z",
     "text_extraction_latest_update": "2026-08-08T05:44:43.558657Z"
   }
 }
