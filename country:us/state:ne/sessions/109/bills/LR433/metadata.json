@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Notice of hearing for October 23, 2026 (cancel)",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T20:13:13Z"
+      }
+    },
+    {
       "description": "Notice of hearing for October 23, 2026",
       "date": "2026-08-14",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -109,7 +119,7 @@
     "division_id": "ocd-division/country:us/state:ne"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T09:00:23Z",
+    "logs_latest_update": "2026-08-28T20:13:13Z",
     "text_extraction_latest_update": "2026-08-18T09:01:20.570573Z"
   }
 }
