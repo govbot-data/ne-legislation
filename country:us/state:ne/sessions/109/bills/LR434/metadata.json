@@ -16,16 +16,6 @@
   ],
   "actions": [
     {
-      "description": "Notice of hearing for October 02, 2026",
-      "date": "2026-09-03",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-09-06T12:38:34Z"
-      }
-    },
-    {
       "description": "Referred to Urban Affairs Committee",
       "date": "2026-03-30",
       "organization_id": "~{\"classification\": \"legislature\"}",
@@ -99,7 +89,6 @@
     }
   ],
   "extras": {
-    "NE_REF_DATE": "October 02, 2026",
     "NE_REF_COM": "Executive Board"
   },
   "jurisdiction": {
@@ -109,7 +98,7 @@
     "division_id": "ocd-division/country:us/state:ne"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-06T12:38:34Z",
+    "logs_latest_update": "2026-09-07T13:19:48Z",
     "text_extraction_latest_update": "2026-09-06T12:39:31.471155Z"
   }
 }
